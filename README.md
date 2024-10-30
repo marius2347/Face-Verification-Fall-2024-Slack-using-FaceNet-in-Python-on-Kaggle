@@ -27,8 +27,8 @@
 
 Here is a GIF demonstrating the key features of the application:
 
-![image_1](https://github.com/marius2347/LLM-ChatBot-in-Python-using-Flask/blob/main/video.gif)
-![image_2](https://github.com/marius2347/LLM-ChatBot-in-Python-using-Flask/blob/main/video.gif)
+![image_1](https://github.com/marius2347/Face-Verification-Fall-2024-Slack-using-FaceNet-in-Python-on-Kaggle/blob/main/similar.png)
+![image_2](https://github.com/marius2347/Face-Verification-Fall-2024-Slack-using-FaceNet-in-Python-on-Kaggle/blob/main/not-similar.png)
 
 > Note: The GIF may take some time to load due to its size.
 
