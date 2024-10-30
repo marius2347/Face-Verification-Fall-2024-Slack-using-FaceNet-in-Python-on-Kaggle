@@ -25,12 +25,13 @@
 
 ## Demo Video
 
-Here is a GIF demonstrating the key features of the application:
 
+Same face:
 ![image_1](https://github.com/marius2347/Face-Verification-Fall-2024-Slack-using-FaceNet-in-Python-on-Kaggle/blob/main/similar.png)
+<br>
+Different face:
 ![image_2](https://github.com/marius2347/Face-Verification-Fall-2024-Slack-using-FaceNet-in-Python-on-Kaggle/blob/main/not-similar.png)
 
-> Note: The GIF may take some time to load due to its size.
 
 ## Contact
 
