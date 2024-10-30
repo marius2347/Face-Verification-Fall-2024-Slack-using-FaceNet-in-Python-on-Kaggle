@@ -21,10 +21,13 @@
 **Machine Learning**: [https://bit.ly/machine-learning-certification](https://bit.ly/machine-learning-certification)
 <br>
 
+## Link
+
+**Kaggle Competition**: [https://www.kaggle.com/competitions/11785-hw-2-p-2-face-verification-fall-2024-slack](https://www.kaggle.com/competitions/11785-hw-2-p-2-face-verification-fall-2024-slack)  
+<br>
 
 
-## Demo Video
-
+## Images
 
 Same face:
 ![image_1](https://github.com/marius2347/Face-Verification-Fall-2024-Slack-using-FaceNet-in-Python-on-Kaggle/blob/main/similar.png)
