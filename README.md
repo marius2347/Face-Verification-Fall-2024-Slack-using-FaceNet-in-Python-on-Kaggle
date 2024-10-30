@@ -26,13 +26,12 @@
 **Kaggle Competition**: [https://www.kaggle.com/competitions/11785-hw-2-p-2-face-verification-fall-2024-slack](https://www.kaggle.com/competitions/11785-hw-2-p-2-face-verification-fall-2024-slack)  
 <br>
 
-
 ## Images
 
-Same face:
+Same face - label 1
 ![image_1](https://github.com/marius2347/Face-Verification-Fall-2024-Slack-using-FaceNet-in-Python-on-Kaggle/blob/main/similar.png)
 <br>
-Different face:
+Different face - label 0
 ![image_2](https://github.com/marius2347/Face-Verification-Fall-2024-Slack-using-FaceNet-in-Python-on-Kaggle/blob/main/not-similar.png)
 
 
